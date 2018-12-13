@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri uses axios to access spotify, bands in town, and OMDB APIs.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpolk/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "spotify",
+    "bands",
+    "in",
+    "town",
+    "omdb"
+  ],
+  "author": "Daniel Polk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielpolk/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/danielpolk/liri-node-app#readme"
+}
