@@ -1,0 +1,100 @@
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: Bowery Ballroom
+
+Venue Location: New York, NY, United States
+
+Venue Time: 12/13/2018, 8:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: The Kessler Theater
+
+Venue Location: Dallas, TX, United States
+
+Venue Time: 12/13/2018, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: Historic Scoot Inn
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 12/13/2018, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: The Heights Theater
+
+Venue Location: Houston, TX, United States
+
+Venue Time: 12/13/2018, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: Bell Centre
+
+Venue Location: Montreal, , Canada
+
+Venue Time: 03/04/2019, 7:30 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: W:Halll - Auditorium
+
+Venue Location: Bruxelles, , Belgium
+
+Venue Time: 03/04/2019, 7:30 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: Reflektor
+
+Venue Location: Liège, , Belgium
+
+Venue Time: 03/04/2019, 7:30 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: Bell Centre
+
+Venue Location: Montreal, , Canada
+
+Venue Time: 03/04/2019, 7:30 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: W:Halll - Auditorium
+
+Venue Location: Bruxelles, , Belgium
+
+Venue Time: 04/25/2019, 8:30 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Venue Name: Reflektor
+
+Venue Location: Liège, , Belgium
+
+Venue Time: 04/26/2019, 8:00 PM
+
+----------------------------------------------------------------
