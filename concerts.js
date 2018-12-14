@@ -9,7 +9,7 @@ var moment = require('moment');
 
 function myConcert(userInput) {
     var artist = userInput;
-    var url = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandsInTown;
+    var url = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandsInTown.id;
 
     axios.get(url).then(
         function (response) {

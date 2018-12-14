@@ -15,8 +15,7 @@ function myMovies(userInput) {
         console.log("It's on Netflix!")
         movie = "Mr. Nobody"
     }
-    var url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
-
+    var url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey="+keys.omdb.id;
     axios.get(url).then(
         function (response) {
             // console.log(response.data)
