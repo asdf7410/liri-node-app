@@ -14,7 +14,6 @@ function myConcert(userInput) {
     axios.get(url).then(
         function (response) {
             // console.log(response.data)
-            // console.log("Venue Time: "+moment(response.data[0].datetime, 'YYYY-MM-DDTHH:mm:ss').format('MM/DD/YYYY, h:mm A'));
             for (var i = 0; i < response.data.length; i++) {
                 console.log("Concert Time: " + moment(response.data[i].datetime, 'YYYY-MM-DDTHH:mm:ss').format('MM/DD/YYYY, h:mm A'));
                 console.log("Concert Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + ", " + response.data[i].venue.country);
