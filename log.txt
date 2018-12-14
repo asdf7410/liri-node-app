@@ -98,3 +98,2581 @@ Venue Location: Liège, , Belgium
 Venue Time: 04/26/2019, 8:00 PM
 
 ----------------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1986
+
+IMDB Rating: 6.9
+
+Rotten Tomatoes: 54%
+
+Country: USA
+
+Language: English
+
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+Year: 1986
+
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KeyBank Center
+
+Venue Location: Buffalo, NY, United States
+
+Venue Time: 01/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Place Bell
+
+Venue Location: Laval, , Canada
+
+Venue Time: 01/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SNHU Arena
+
+Venue Location: Manchester, NH, United States
+
+Venue Time: 01/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Times Union Center
+
+Venue Location: Albany, NY, United States
+
+Venue Time: 01/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 01/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Dunkin' Donuts Center
+
+Venue Location: Providence, RI, United States
+
+Venue Time: 01/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Spectrum Center
+
+Venue Location: Charlotte, NC, United States
+
+Venue Time: 01/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: John Paul Jones Arena
+
+Venue Location: Charlottesville, VA, United States
+
+Venue Time: 01/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH, United States
+
+Venue Time: 01/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI, United States
+
+Venue Time: 01/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Andel Arena
+
+Venue Location: Grand Rapids, MI, United States
+
+Venue Time: 01/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Quicken Loans Arena
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 01/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CenturyLink Center
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 02/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sprint Center
+
+Venue Location: Kansas City, MO, United States
+
+Venue Time: 02/02/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allstate Arena
+
+Venue Location: Rosemont, IL, United States
+
+Venue Time: 02/04/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: Saint Louis, MO, United States
+
+Venue Time: 02/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FedExForum
+
+Venue Location: Memphis, TN, United States
+
+Venue Time: 02/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Frank Erwin Center
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 02/08/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Smoothie King Center
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 02/09/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tingley Coliseum
+
+Venue Location: Albuquerque, NM, United States
+
+Venue Time: 02/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Honda Center
+
+Venue Location: Anaheim, CA, United States
+
+Venue Time: 02/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Inglewood, CA, United States
+
+Venue Time: 02/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Valley View Casino Center
+
+Venue Location: San Diego, CA, United States
+
+Venue Time: 02/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: ORACLE Arena
+
+Venue Location: Oakland, CA, United States
+
+Venue Time: 02/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 02/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Stadthalle
+
+Venue Location: Offenbach, , Germany
+
+Venue Time: 03/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Columbiahalle 
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 03/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mitsubishi Electric Halle
+
+Venue Location: Düsseldorf, , Germany
+
+Venue Time: 03/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AFAS Live
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 03/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Zenith
+
+Venue Location: Paris, , France
+
+Venue Time: 03/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lotto Arena
+
+Venue Location: Antwerp, , Belgium
+
+Venue Time: 03/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SSE Hydro
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 03/24/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Motorpoint Arena
+
+Venue Location: Cardiff, , United Kingdom
+
+Venue Time: 03/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 03/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 03/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Firefly Music Festival
+
+Venue Location: Dover, DE, United States
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KeyBank Center
+
+Venue Location: Buffalo, NY, United States
+
+Venue Time: 01/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Place Bell
+
+Venue Location: Laval, , Canada
+
+Venue Time: 01/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SNHU Arena
+
+Venue Location: Manchester, NH, United States
+
+Venue Time: 01/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Times Union Center
+
+Venue Location: Albany, NY, United States
+
+Venue Time: 01/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 01/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Dunkin' Donuts Center
+
+Venue Location: Providence, RI, United States
+
+Venue Time: 01/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Spectrum Center
+
+Venue Location: Charlotte, NC, United States
+
+Venue Time: 01/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: John Paul Jones Arena
+
+Venue Location: Charlottesville, VA, United States
+
+Venue Time: 01/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH, United States
+
+Venue Time: 01/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI, United States
+
+Venue Time: 01/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Andel Arena
+
+Venue Location: Grand Rapids, MI, United States
+
+Venue Time: 01/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Quicken Loans Arena
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 01/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CenturyLink Center
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 02/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sprint Center
+
+Venue Location: Kansas City, MO, United States
+
+Venue Time: 02/02/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allstate Arena
+
+Venue Location: Rosemont, IL, United States
+
+Venue Time: 02/04/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: Saint Louis, MO, United States
+
+Venue Time: 02/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FedExForum
+
+Venue Location: Memphis, TN, United States
+
+Venue Time: 02/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Frank Erwin Center
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 02/08/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Smoothie King Center
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 02/09/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tingley Coliseum
+
+Venue Location: Albuquerque, NM, United States
+
+Venue Time: 02/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Honda Center
+
+Venue Location: Anaheim, CA, United States
+
+Venue Time: 02/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Inglewood, CA, United States
+
+Venue Time: 02/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Valley View Casino Center
+
+Venue Location: San Diego, CA, United States
+
+Venue Time: 02/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: ORACLE Arena
+
+Venue Location: Oakland, CA, United States
+
+Venue Time: 02/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 02/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Stadthalle
+
+Venue Location: Offenbach, , Germany
+
+Venue Time: 03/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Columbiahalle 
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 03/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mitsubishi Electric Halle
+
+Venue Location: Düsseldorf, , Germany
+
+Venue Time: 03/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AFAS Live
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 03/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Zenith
+
+Venue Location: Paris, , France
+
+Venue Time: 03/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lotto Arena
+
+Venue Location: Antwerp, , Belgium
+
+Venue Time: 03/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SSE Hydro
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 03/24/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Motorpoint Arena
+
+Venue Location: Cardiff, , United Kingdom
+
+Venue Time: 03/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 03/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 03/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Firefly Music Festival
+
+Venue Location: Dover, DE, United States
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: YEAH RIGHT
+
+Artist(s): Joji
+
+Album: BALLADS 1
+
+Preview Link: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=901f84bff282462ea239bc8d335fdce7
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1986
+
+IMDB Rating: 6.9
+
+Rotten Tomatoes: 54%
+
+Country: USA
+
+Language: English
+
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+Year: 1986
+
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KeyBank Center
+
+Venue Location: Buffalo, NY, United States
+
+Venue Time: 01/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Place Bell
+
+Venue Location: Laval, , Canada
+
+Venue Time: 01/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SNHU Arena
+
+Venue Location: Manchester, NH, United States
+
+Venue Time: 01/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Times Union Center
+
+Venue Location: Albany, NY, United States
+
+Venue Time: 01/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 01/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Dunkin' Donuts Center
+
+Venue Location: Providence, RI, United States
+
+Venue Time: 01/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Spectrum Center
+
+Venue Location: Charlotte, NC, United States
+
+Venue Time: 01/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: John Paul Jones Arena
+
+Venue Location: Charlottesville, VA, United States
+
+Venue Time: 01/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH, United States
+
+Venue Time: 01/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI, United States
+
+Venue Time: 01/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Andel Arena
+
+Venue Location: Grand Rapids, MI, United States
+
+Venue Time: 01/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Quicken Loans Arena
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 01/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CenturyLink Center
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 02/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sprint Center
+
+Venue Location: Kansas City, MO, United States
+
+Venue Time: 02/02/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allstate Arena
+
+Venue Location: Rosemont, IL, United States
+
+Venue Time: 02/04/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: Saint Louis, MO, United States
+
+Venue Time: 02/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FedExForum
+
+Venue Location: Memphis, TN, United States
+
+Venue Time: 02/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Frank Erwin Center
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 02/08/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Smoothie King Center
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 02/09/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tingley Coliseum
+
+Venue Location: Albuquerque, NM, United States
+
+Venue Time: 02/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Honda Center
+
+Venue Location: Anaheim, CA, United States
+
+Venue Time: 02/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Inglewood, CA, United States
+
+Venue Time: 02/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Valley View Casino Center
+
+Venue Location: San Diego, CA, United States
+
+Venue Time: 02/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: ORACLE Arena
+
+Venue Location: Oakland, CA, United States
+
+Venue Time: 02/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 02/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Stadthalle
+
+Venue Location: Offenbach, , Germany
+
+Venue Time: 03/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Columbiahalle 
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 03/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mitsubishi Electric Halle
+
+Venue Location: Düsseldorf, , Germany
+
+Venue Time: 03/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AFAS Live
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 03/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Zenith
+
+Venue Location: Paris, , France
+
+Venue Time: 03/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lotto Arena
+
+Venue Location: Antwerp, , Belgium
+
+Venue Time: 03/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SSE Hydro
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 03/24/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Motorpoint Arena
+
+Venue Location: Cardiff, , United Kingdom
+
+Venue Time: 03/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 03/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 03/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Firefly Music Festival
+
+Venue Location: Dover, DE, United States
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KeyBank Center
+
+Venue Location: Buffalo, NY, United States
+
+Venue Time: 01/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Place Bell
+
+Venue Location: Laval, , Canada
+
+Venue Time: 01/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SNHU Arena
+
+Venue Location: Manchester, NH, United States
+
+Venue Time: 01/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Times Union Center
+
+Venue Location: Albany, NY, United States
+
+Venue Time: 01/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 01/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Dunkin' Donuts Center
+
+Venue Location: Providence, RI, United States
+
+Venue Time: 01/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Spectrum Center
+
+Venue Location: Charlotte, NC, United States
+
+Venue Time: 01/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: John Paul Jones Arena
+
+Venue Location: Charlottesville, VA, United States
+
+Venue Time: 01/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH, United States
+
+Venue Time: 01/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI, United States
+
+Venue Time: 01/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Andel Arena
+
+Venue Location: Grand Rapids, MI, United States
+
+Venue Time: 01/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Quicken Loans Arena
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 01/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CenturyLink Center
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 02/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sprint Center
+
+Venue Location: Kansas City, MO, United States
+
+Venue Time: 02/02/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allstate Arena
+
+Venue Location: Rosemont, IL, United States
+
+Venue Time: 02/04/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: Saint Louis, MO, United States
+
+Venue Time: 02/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FedExForum
+
+Venue Location: Memphis, TN, United States
+
+Venue Time: 02/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Frank Erwin Center
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 02/08/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Smoothie King Center
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 02/09/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tingley Coliseum
+
+Venue Location: Albuquerque, NM, United States
+
+Venue Time: 02/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Honda Center
+
+Venue Location: Anaheim, CA, United States
+
+Venue Time: 02/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Inglewood, CA, United States
+
+Venue Time: 02/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Valley View Casino Center
+
+Venue Location: San Diego, CA, United States
+
+Venue Time: 02/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: ORACLE Arena
+
+Venue Location: Oakland, CA, United States
+
+Venue Time: 02/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 02/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Stadthalle
+
+Venue Location: Offenbach, , Germany
+
+Venue Time: 03/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Columbiahalle 
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 03/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mitsubishi Electric Halle
+
+Venue Location: Düsseldorf, , Germany
+
+Venue Time: 03/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AFAS Live
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 03/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Zenith
+
+Venue Location: Paris, , France
+
+Venue Time: 03/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lotto Arena
+
+Venue Location: Antwerp, , Belgium
+
+Venue Time: 03/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SSE Hydro
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 03/24/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Motorpoint Arena
+
+Venue Location: Cardiff, , United Kingdom
+
+Venue Time: 03/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 03/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 03/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Firefly Music Festival
+
+Venue Location: Dover, DE, United States
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1986
+
+IMDB Rating: 6.9
+
+Rotten Tomatoes: 54%
+
+Country: USA
+
+Language: English
+
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+Year: 1986
+
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: YEAH RIGHT
+
+Artist(s): Joji
+
+Album: BALLADS 1
+
+Preview Link: https://p.scdn.co/mp3-preview/c93897405a1809244b633a5599ac341bf0e8f3c3?cid=901f84bff282462ea239bc8d335fdce7
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=901f84bff282462ea239bc8d335fdce7
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 1986
+
+IMDB Rating: 6.9
+
+Rotten Tomatoes: 54%
+
+Country: USA
+
+Language: English
+
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+Year: 1986
+
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KeyBank Center
+
+Venue Location: Buffalo, NY, United States
+
+Venue Time: 01/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Place Bell
+
+Venue Location: Laval, , Canada
+
+Venue Time: 01/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SNHU Arena
+
+Venue Location: Manchester, NH, United States
+
+Venue Time: 01/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Times Union Center
+
+Venue Location: Albany, NY, United States
+
+Venue Time: 01/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 01/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Dunkin' Donuts Center
+
+Venue Location: Providence, RI, United States
+
+Venue Time: 01/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Spectrum Center
+
+Venue Location: Charlotte, NC, United States
+
+Venue Time: 01/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: John Paul Jones Arena
+
+Venue Location: Charlottesville, VA, United States
+
+Venue Time: 01/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH, United States
+
+Venue Time: 01/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI, United States
+
+Venue Time: 01/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Andel Arena
+
+Venue Location: Grand Rapids, MI, United States
+
+Venue Time: 01/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Quicken Loans Arena
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 01/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CenturyLink Center
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 02/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sprint Center
+
+Venue Location: Kansas City, MO, United States
+
+Venue Time: 02/02/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allstate Arena
+
+Venue Location: Rosemont, IL, United States
+
+Venue Time: 02/04/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: Saint Louis, MO, United States
+
+Venue Time: 02/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FedExForum
+
+Venue Location: Memphis, TN, United States
+
+Venue Time: 02/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Frank Erwin Center
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 02/08/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Smoothie King Center
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 02/09/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tingley Coliseum
+
+Venue Location: Albuquerque, NM, United States
+
+Venue Time: 02/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Honda Center
+
+Venue Location: Anaheim, CA, United States
+
+Venue Time: 02/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Inglewood, CA, United States
+
+Venue Time: 02/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Valley View Casino Center
+
+Venue Location: San Diego, CA, United States
+
+Venue Time: 02/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: ORACLE Arena
+
+Venue Location: Oakland, CA, United States
+
+Venue Time: 02/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 02/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Stadthalle
+
+Venue Location: Offenbach, , Germany
+
+Venue Time: 03/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Columbiahalle 
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 03/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mitsubishi Electric Halle
+
+Venue Location: Düsseldorf, , Germany
+
+Venue Time: 03/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AFAS Live
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 03/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Zenith
+
+Venue Location: Paris, , France
+
+Venue Time: 03/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lotto Arena
+
+Venue Location: Antwerp, , Belgium
+
+Venue Time: 03/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SSE Hydro
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 03/24/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Motorpoint Arena
+
+Venue Location: Cardiff, , United Kingdom
+
+Venue Time: 03/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 03/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 03/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Firefly Music Festival
+
+Venue Location: Dover, DE, United States
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: KeyBank Center
+
+Venue Location: Buffalo, NY, United States
+
+Venue Time: 01/10/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Place Bell
+
+Venue Location: Laval, , Canada
+
+Venue Time: 01/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SNHU Arena
+
+Venue Location: Manchester, NH, United States
+
+Venue Time: 01/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Times Union Center
+
+Venue Location: Albany, NY, United States
+
+Venue Time: 01/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 01/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Dunkin' Donuts Center
+
+Venue Location: Providence, RI, United States
+
+Venue Time: 01/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Spectrum Center
+
+Venue Location: Charlotte, NC, United States
+
+Venue Time: 01/22/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: John Paul Jones Arena
+
+Venue Location: Charlottesville, VA, United States
+
+Venue Time: 01/23/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: U.S. Bank Arena
+
+Venue Location: Cincinnati, OH, United States
+
+Venue Time: 01/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Fiserv Forum
+
+Venue Location: Milwaukee, WI, United States
+
+Venue Time: 01/27/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Andel Arena
+
+Venue Location: Grand Rapids, MI, United States
+
+Venue Time: 01/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Quicken Loans Arena
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 01/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CenturyLink Center
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 02/01/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sprint Center
+
+Venue Location: Kansas City, MO, United States
+
+Venue Time: 02/02/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allstate Arena
+
+Venue Location: Rosemont, IL, United States
+
+Venue Time: 02/04/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: Saint Louis, MO, United States
+
+Venue Time: 02/05/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FedExForum
+
+Venue Location: Memphis, TN, United States
+
+Venue Time: 02/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Frank Erwin Center
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 02/08/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Smoothie King Center
+
+Venue Location: New Orleans, LA, United States
+
+Venue Time: 02/09/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tingley Coliseum
+
+Venue Location: Albuquerque, NM, United States
+
+Venue Time: 02/12/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Honda Center
+
+Venue Location: Anaheim, CA, United States
+
+Venue Time: 02/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Inglewood, CA, United States
+
+Venue Time: 02/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Valley View Casino Center
+
+Venue Location: San Diego, CA, United States
+
+Venue Time: 02/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: ORACLE Arena
+
+Venue Location: Oakland, CA, United States
+
+Venue Time: 02/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 02/20/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Stadthalle
+
+Venue Location: Offenbach, , Germany
+
+Venue Time: 03/14/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Columbiahalle 
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 03/15/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mitsubishi Electric Halle
+
+Venue Location: Düsseldorf, , Germany
+
+Venue Time: 03/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: AFAS Live
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 03/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Zenith
+
+Venue Location: Paris, , France
+
+Venue Time: 03/19/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lotto Arena
+
+Venue Location: Antwerp, , Belgium
+
+Venue Time: 03/21/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: SSE Hydro
+
+Venue Location: Glasgow, , United Kingdom
+
+Venue Time: 03/24/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Motorpoint Arena
+
+Venue Location: Cardiff, , United Kingdom
+
+Venue Time: 03/25/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 03/26/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 03/29/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 03/30/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Firefly Music Festival
+
+Venue Location: Dover, DE, United States
+
+Venue Time: 06/21/2019, 7:00 PM
+
+-----------------------------------------

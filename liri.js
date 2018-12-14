@@ -3,23 +3,20 @@ require("dotenv").config();
 
 //Require data from File System npm package
 var fs = require("fs");
-//Require data from moment npm package
-var moment = require('moment');
-//Require data from Axios npm package
-var axios = require("axios");
-//Require data from node-spotify npm package
-var Spotify = require('node-spotify-api');
 
 
-// Requiring our spotify, OMDB, and bands in town modules exported from keys.js
-var keys = require("./keys");
-// Storing API keys in variables.
-var spotify = new Spotify(keys.spotify);
+// Requiring our Spotify function exported from spotify.js
+var mySpotify = require("./spotify.js");
+// Requiring our Movies function exported from omdb.js
+var myMovies = require("./movies.js");
+// Requiring our Movies function exported from omdb.js
+var myConcert = require("./concerts.js");
 
 //Creates initial user command.
 var userCommand=process.argv[2];
 //Creates user input.
-var userInput=process.argv[3];
+var userInput=process.argv.splice(3,process.argv.length).join(' ');
+
 
 //Program conditions 
 switch (userCommand) {
@@ -49,21 +46,29 @@ switch (userCommand) {
         console.log("LIRI doesn't understand that - Please type 'node liri.js help' for more information");
 };
 
-function myConcert(userInput) {
-    var artist = userInput;
-    var url = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandsInTown;
 
-    axios.get(url).then(
-        function (response) {
-            // console.log(response.data[0])
-            // console.log("Venue Time: "+moment(response.data[0].datetime, 'YYYY-MM-DDTHH:mm:ss').format('MM/DD/YYYY, h:mm A'));
-            for (var i = 0; i < 10; i++) {
-                console.log("\nVenue Name: " + response.data[i].venue.name);
-                console.log("Venue Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + ", " + response.data[i].venue.country);
-                console.log("Venue Time: " + moment(response.data[i].datetime, 'YYYY-MM-DDTHH:mm:ss').format('MM/DD/YYYY, h:mm A'));
-                console.log('--------------------------------------------------')
-            }
+function doWhatItSays() {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+        //Return error if error occurs.
+        if (error) {
+            return console.log(error);
         }
-    );
-
+        // Then split it by commas (to make it more readable)
+        var dataArr = data.split(",");
+        
+        // Each command is represented. Because of the format in the txt file, remove the quotes to run these commands. 
+        if (dataArr[0] === "spotify-this-song") {
+            var songcheck = dataArr[1].slice(1, -1);
+            console.log("Song Check: "+songcheck)
+            mySpotify(songcheck);
+        } else if (dataArr[0] === "concert-this") {
+            var venueName = dataArr[1].slice(1, -1);
+            console.log("Venue Name: "+venueName)
+            myConcert(venueName);
+        } else if(dataArr[0] === "movie-this") {
+            var movieName = dataArr[1].slice(1, -1);
+            console.log("Movie Name: "+movieName)
+            myMovies(movieName);
+        }
+    });
 };
