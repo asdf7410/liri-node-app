@@ -4,4 +4,4 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## Demo
 https://youtu.be/EeC7lJjZ3O4
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/upload_thumbnail?v=EeC7lJjZ3O4&t=hqdefault&ts=1544816878531](https://youtu.be/EeC7lJjZ3O4)
+[(https://www.youtube.com/upload_thumbnail?v=EeC7lJjZ3O4&t=hqdefault&ts=1544816878531)]
